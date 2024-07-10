@@ -1,0 +1,15 @@
+*{
+    font-size: 3vw;
+}
+
+body{
+    background-color: azure;
+}
+
+button{
+    background-color: rgb(47, 255, 50);
+    color: white;
+    border: none;
+    border-radius: 10px;
+    padding: 10px 20px;
+}
